@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="224" viewBox="0 0 1200 224" role="img" aria-label="Veyra project card">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#13273b"/><stop offset="1" stop-color="#0c1828"/></linearGradient>
+ <pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#94c2d0" stroke-opacity=".07"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="222" rx="18" fill="url(#bg)" stroke="#506d82" stroke-opacity=".5"/>
+<rect x="1" y="1" width="1198" height="222" rx="18" fill="url(#g)"/>
+<rect x="31" y="35" width="5" height="155" rx="2" fill="#8ce5d2"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="62" y="59" fill="#8ce5d2" font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="2">01  /  PRODUCT ENGINEERING</text>
+<text x="60" y="109" fill="#f5f9ff" font-size="36" font-weight="bold">Veyra</text>
+<text x="61" y="144" fill="#bed0e0" font-size="17">QR-based feedback and review workflows for organizations.</text>
+<text x="61" y="178" fill="#8ba6be" font-size="14">Multi-tenant access · Moderation · Developer operations</text>
+</g>
+<g stroke="#83dfcf" stroke-opacity=".58" fill="none" stroke-width="2">
+<rect x="813" y="50" width="90" height="118" rx="9"/><path d="M831 65h17v17h-17z M861 65h25v17h-25z M831 94h17v17h-17z M861 94h25v17h-25z M831 123h20v20h-20z"/>
+<path d="M904 109h32" stroke-dasharray="5 5"/><path d="m931 103 7 6-7 6" />
+<rect x="949" y="50" width="180" height="118" rx="9" stroke="#9aaef2"/>
+<path d="M966 69h145M966 84h85M966 108h85M966 126h119" stroke="#9aaef2" stroke-opacity=".6"/>
+<rect x="966" y="143" width="53" height="12" rx="6" fill="#79d9c8" fill-opacity=".45" stroke="none"/>
+</g><g fill="#83dfcf"><circle cx="844" cy="184" r="4"/><circle cx="1037" cy="184" r="4"/></g>
+</svg>

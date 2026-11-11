@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="224" viewBox="0 0 1200 224" role="img" aria-label="Talara project card">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#13273b"/><stop offset="1" stop-color="#0c1828"/></linearGradient>
+ <pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#94c2d0" stroke-opacity=".07"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="222" rx="18" fill="url(#bg)" stroke="#506d82" stroke-opacity=".5"/>
+<rect x="1" y="1" width="1198" height="222" rx="18" fill="url(#g)"/>
+<rect x="31" y="35" width="5" height="155" rx="2" fill="#85d9ff"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="62" y="59" fill="#85d9ff" font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="2">02  /  RESOURCE OPERATIONS</text>
+<text x="60" y="109" fill="#f5f9ff" font-size="36" font-weight="bold">Talara</text>
+<text x="61" y="144" fill="#bed0e0" font-size="17">Coordinating assets, reservations and maintenance.</text>
+<text x="61" y="178" fill="#8ba6be" font-size="14">Operational workflows · Conflict checks · Data modeling</text>
+</g>
+<g fill="none" stroke-width="2.1" stroke-linejoin="round">
+<path d="M849 52h52v52h-52z M862 64h26v26h-26z" stroke="#85d9ff" opacity=".85"/>
+<path d="M901 78h61" stroke="#85d9ff" stroke-dasharray="5 6"/>
+<rect x="967" y="53" width="146" height="111" rx="10" stroke="#8dcfea" opacity=".85"/>
+<path d="M967 78h146 M997 79v85 M1026 79v85 M1055 79v85 M1084 79v85 M967 106h146 M967 134h146" stroke="#8dcfea" opacity=".24"/>
+<rect x="1030" y="109" width="50" height="22" rx="5" fill="#85d9ff" fill-opacity=".23" stroke="#85d9ff" opacity=".9"/>
+<path d="M875 104v34h92" stroke="#85d9ff" stroke-dasharray="4 6"/>
+<circle cx="875" cy="139" r="5" stroke="#85d9ff"/>
+</g>
+</svg>
